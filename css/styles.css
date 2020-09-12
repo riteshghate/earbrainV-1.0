@@ -1,0 +1,195 @@
+.earbrain-logo {
+    float: left;
+    padding-left: 60px;
+    padding-top: 50px;
+}
+
+.header {
+    font-family: Arial;
+    font-size: 18px;
+}
+
+/*.body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}*/
+.learn-more {
+    float: right;
+    padding-right: 104px;
+    padding-top: 87px;
+    padding-bottom: 64px;
+}
+
+.findat {
+    float: right;
+    padding-right: 22px;
+    padding-top: 87px;
+    padding-bottom: 64px;
+}
+
+
+.background_image {
+    width: 1920px;
+    height: 936px;
+
+}
+
+.text1 {
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    top: 277px;
+    left: 215px;
+    width: 761px;
+    height: 354px;
+    text-align: left;
+    font: normal normal 300 85px/112px Roboto;
+    letter-spacing: 0px;
+    color: #626262;
+    opacity: 1;
+
+}
+
+.text2 {
+    position: absolute;
+    top: 649px;
+    left: 215px;
+    width: 748px;
+    height: 141px;
+    text-align: left;
+    font: normal normal normal 50px/66px Roboto;
+    letter-spacing: 0px;
+    color: #EA983E;
+    opacity: 1;
+}
+
+.video1 {
+    position: absolute;
+    top: 843px;
+    left: 215px;
+    width: 232px;
+    height: 142px;
+}
+
+.text3 {
+    position: absolute;
+    top: 858px;
+    left: 484px;
+    width: 309px;
+    height: 124px;
+    text-align: left;
+    font: normal normal 300 43px/57px Roboto;
+    letter-spacing: 0px;
+    color: #969696;
+    opacity: 1;
+}
+
+/*for orage gradient on the base*/
+.middlebase {
+    top: 1050px;
+    left: 0px;
+    width: 1920px;
+    height: 29px;
+    transform: matrix(-1, 0, 0, -1, 0, 0);
+    background: transparent linear-gradient(90deg, var(--unnamed-color-ffffff) 0%, var(--unnamed-color-ffffff) 22%, #EA983E 100%) 0% 0% no-repeat padding-box;
+    background: transparent linear-gradient(90deg, #FFFFFF 0%, #FFFFFF 22%, #EA983E 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+/*for opacity*/
+.grad1 {
+    position: absolute;
+    top: 143px;
+    left: 0px;
+    width: 1920px;
+    height: 936px;
+    background: transparent linear-gradient(89deg, #FFFFFFE6 0%, #FBFBFB4D 50%, #E4E4E400 52%, #E5E5E500 48%, #80808000 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+/*Middle2*/
+.middle2 {
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.heading1 {
+    position: absolute;
+    top: 1194px;
+    left: 300px;
+    width: 570px;
+    height: 79px;
+    text-align: left;
+    font: normal normal 300 60px/79px Roboto;
+    letter-spacing: 0px;
+    color: #EA9A41;
+}
+
+.description1 {
+    position: absolute;
+    top: 1468px;
+    left: 300px;
+    width: 676px;
+    height: 296px;
+    text-align: left;
+    font: normal normal 300 24px/32px Roboto;
+    letter-spacing: 0px;
+    color: #838383;
+    opacity: 1;
+}
+
+.find-at-today {
+    text-align: center;
+    font: normal normal medium 24px/32px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    position: absolute;
+    top: 1812px;
+    left: 300px;
+    width: 396px;
+    height: 76px;
+    border: 2px solid var(--unnamed-color-ffffff);
+    background: #F79425 0% 0% no-repeat padding-box;
+    border: 2px solid #FFFFFF;
+    opacity: 1;
+}
+
+.brainimage {
+    position: absolute;
+    top: 1228px;
+    left: 1017px;
+    width: 758px;
+    height: 584px;
+    background: transparent url('img/Brain Gears.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+/*middle3*/
+.middle3 {
+    position: absolute;
+    top: 2007px;
+    left: 0px;
+    width: 1920px;
+    height: 902px;
+    background: #F0F0F0 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.box {
+    position: absolute;
+    top: 181px;
+    left: 285px;
+    width: 565px;
+    height: 541px;
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 50px #00000029;
+    opacity: 1;
+}
+.insidebox{
+    position: absolute;
+    top: 71px;
+    left: 40px;
+}
